@@ -301,7 +301,7 @@ GameObject:
   - component: {fileID: 99616716}
   - component: {fileID: 99616718}
   - component: {fileID: 99616717}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: platformPack_tile013 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -408,7 +408,7 @@ GameObject:
   - component: {fileID: 115136957}
   - component: {fileID: 115136959}
   - component: {fileID: 115136958}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: platformPack_tile013 (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -595,7 +595,7 @@ GameObject:
   - component: {fileID: 208636213}
   - component: {fileID: 208636215}
   - component: {fileID: 208636214}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: platformPack_tile013 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -702,7 +702,7 @@ GameObject:
   - component: {fileID: 214168099}
   - component: {fileID: 214168101}
   - component: {fileID: 214168100}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: platformPack_tile013 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -878,87 +878,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &236460371
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 236460373}
-  - component: {fileID: 236460372}
-  m_Layer: 0
-  m_Name: Hunter_1
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!212 &236460372
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 236460371}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 662029121
-  m_SortingLayer: 1
-  m_SortingOrder: 0
-  m_Sprite: {fileID: -8086155015952426270, guid: 451f3cd4cfe2cc748892faadda787a94,
-    type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 0.8666667, y: 1.2}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!4 &236460373
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 236460371}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.17, z: 0}
-  m_LocalScale: {x: 0.5644829, y: 0.56448364, z: 1}
-  m_Children: []
-  m_Father: {fileID: 4535189}
-  m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &246061513
 GameObject:
   m_ObjectHideFlags: 0
@@ -1050,7 +969,7 @@ GameObject:
   - component: {fileID: 332370847}
   - component: {fileID: 332370849}
   - component: {fileID: 332370848}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: platformPack_tile013 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1157,7 +1076,7 @@ GameObject:
   - component: {fileID: 341311297}
   - component: {fileID: 341311299}
   - component: {fileID: 341311298}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: platformPack_tile013 (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1278,7 +1197,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 361492699}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -16.820074, y: -4.597273, z: 12.423904}
+  m_LocalPosition: {x: -16.78, y: -4.597273, z: 12.423904}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 376763106}
@@ -1377,7 +1296,7 @@ GameObject:
   - component: {fileID: 405616557}
   - component: {fileID: 405616559}
   - component: {fileID: 405616558}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: platformPack_tile013 (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1484,7 +1403,7 @@ GameObject:
   - component: {fileID: 459370323}
   - component: {fileID: 459370325}
   - component: {fileID: 459370324}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: platformPack_tile013 (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1713,11 +1632,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 87a2357765801c34292d6718d8b4d770, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.6
+      value: -0.02
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 87a2357765801c34292d6718d8b4d770, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 87a2357765801c34292d6718d8b4d770, type: 3}
       propertyPath: m_LocalRotation.x
@@ -1751,9 +1670,9 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 21200000, guid: 87a2357765801c34292d6718d8b4d770, type: 3}
-      propertyPath: m_Enabled
-      value: 0
+    - target: {fileID: 1055059149, guid: 87a2357765801c34292d6718d8b4d770, type: 3}
+      propertyPath: m_Name
+      value: Graphics
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 87a2357765801c34292d6718d8b4d770, type: 3}
@@ -1766,7 +1685,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 717549241}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1781,7 +1700,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 717549240}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -1.6, z: 1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 2021961359}
@@ -1823,7 +1742,7 @@ GameObject:
   - component: {fileID: 821068037}
   - component: {fileID: 821068039}
   - component: {fileID: 821068038}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: platformPack_tile013 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1930,7 +1849,7 @@ GameObject:
   - component: {fileID: 823073264}
   - component: {fileID: 823073266}
   - component: {fileID: 823073265}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: platformPack_tile013 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2197,7 +2116,7 @@ GameObject:
   - component: {fileID: 910628617}
   - component: {fileID: 910628619}
   - component: {fileID: 910628618}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: platformPack_tile013 (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2304,7 +2223,7 @@ GameObject:
   - component: {fileID: 914444094}
   - component: {fileID: 914444096}
   - component: {fileID: 914444095}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: platformPack_tile013 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2411,7 +2330,7 @@ GameObject:
   - component: {fileID: 919327907}
   - component: {fileID: 919327909}
   - component: {fileID: 919327908}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: platformPack_tile013 (22)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2518,7 +2437,7 @@ GameObject:
   - component: {fileID: 946550647}
   - component: {fileID: 946550649}
   - component: {fileID: 946550648}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: platformPack_tile013 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2703,7 +2622,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1041741716}
-  - component: {fileID: 1041741717}
   m_Layer: 10
   m_Name: Foreground
   m_TagString: Untagged
@@ -2719,7 +2637,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1041741715}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.15645611, y: -4.0944915, z: -0.69617176}
+  m_LocalPosition: {x: 0.15, y: -4.1, z: 16.880001}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 246061514}
@@ -2727,18 +2645,6 @@ Transform:
   m_Father: {fileID: 519420032}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1041741717
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1041741715}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 97ae5039eb3bca34db7aa5534cbb1ec5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1071290193
 GameObject:
   m_ObjectHideFlags: 0
@@ -2990,7 +2896,7 @@ GameObject:
   - component: {fileID: 1202722110}
   - component: {fileID: 1202722112}
   - component: {fileID: 1202722111}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: platformPack_tile013 (23)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3177,7 +3083,7 @@ GameObject:
   - component: {fileID: 1269691128}
   - component: {fileID: 1269691130}
   - component: {fileID: 1269691129}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: platformPack_tile013 (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3284,7 +3190,7 @@ GameObject:
   - component: {fileID: 1341093025}
   - component: {fileID: 1341093027}
   - component: {fileID: 1341093026}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: platformPack_tile013 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3439,7 +3345,7 @@ GameObject:
   - component: {fileID: 1415683084}
   - component: {fileID: 1415683086}
   - component: {fileID: 1415683085}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: platformPack_tile013 (24)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3639,7 +3545,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1418325593}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.25742328, y: 2.520591, z: -2.5647726}
+  m_LocalPosition: {x: -0.25742328, y: 1.25, z: -2.5647726}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 376763106}
@@ -3743,7 +3649,7 @@ GameObject:
   - component: {fileID: 1557345276}
   - component: {fileID: 1557345278}
   - component: {fileID: 1557345277}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: platformPack_tile013 (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4123,7 +4029,7 @@ GameObject:
   - component: {fileID: 1728836758}
   - component: {fileID: 1728836760}
   - component: {fileID: 1728836759}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: platformPack_tile013 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4230,7 +4136,7 @@ GameObject:
   - component: {fileID: 1733963369}
   - component: {fileID: 1733963371}
   - component: {fileID: 1733963370}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: platformPack_tile013 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4370,7 +4276,7 @@ GameObject:
   - component: {fileID: 1805775961}
   - component: {fileID: 1805775963}
   - component: {fileID: 1805775962}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: platformPack_tile013 (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4641,7 +4547,7 @@ GameObject:
   - component: {fileID: 1916146139}
   - component: {fileID: 1916146141}
   - component: {fileID: 1916146140}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: platformPack_tile013 (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4908,7 +4814,7 @@ GameObject:
   - component: {fileID: 2021961359}
   - component: {fileID: 2021961358}
   - component: {fileID: 2021961360}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: platformPack_tile013
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5095,7 +5001,7 @@ GameObject:
   - component: {fileID: 2049154175}
   - component: {fileID: 2049154177}
   - component: {fileID: 2049154176}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: platformPack_tile013 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
